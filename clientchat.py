@@ -3,7 +3,7 @@ Simple program that connects to server by inputting IPAddress, and could chat wi
 
 usage: python chat.py [address]
 References: 
-https://www.youtube.com/watch?v=DIPZoZheMTo
+https://www.binarytides.com/python-socket-server-code-example/ , https://www.youtube.com/watch?v=DIPZoZheMTo
 
 @BennyFung
 '''
